@@ -1,5 +1,5 @@
 # Advanced Port Scanner
-An application which displays the vulnerabilites of opened ports in a network on a particular operating system.
+An application that displays the vulnerabilities of opened ports in a network on a particular operating system.
 
 **WHY IS VULNERABILITY SCANNING IMPORTANT?**
 
